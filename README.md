@@ -5,7 +5,7 @@ This project demonstrates how Excel’s Data processing, cleaning, pivot table c
 To analyze store sale structures and variations.
 To apply Excel Power Query for data cleaning and shaping.
 also apply Pivot Table for summarize data, fitering and grouping and interactive Dashboard.
-## methodology
+## Methodology
 Data Cleaning: Data cleaning in power query.
 Data Processing: grouping age and find only month from the date 
 PivotTables & Charts: Summarized sales trends and visualized outcomes.
@@ -21,3 +21,12 @@ Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka
 Screenshots of Excel sheets 
 Sample dataset used for analysis.
 Charts and graphs generated.
+## Sample Questions
+Compare the sales and orders using single chart
+Which month got the highest sales and orders?
+Who purchased more- men or women in 2022?
+What are different order status in 2022?
+List top 10 states contributing to the sales?
+Relation between age and gender based on number
+Which channel is contributing to maximum sales?
+Highest selling category?, etc.
